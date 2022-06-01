@@ -2,8 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benny1020)](https://github.com/benny1020/github-readme-stats)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=benny1020)](https://solved.ac/benny1020)
+[![Solved.ac프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=benny1020)](https://solved.ac/benny1020)
 
 <!--
 **benny1020/benny1020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
