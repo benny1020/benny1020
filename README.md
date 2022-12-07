@@ -11,9 +11,10 @@ NHN 커머스 **백엔드 개발자 교육**  <sub><sup> Kotlin Spring  (2022.07
 **부산대학교 학부연구생**  <sub><sup> Prediction of corporate bankruptcy (2021.01 ~ 2022.07)</sup></sub>  
 **부산대학교 정보컴퓨터공학부**  <sub><sup> 학부 (2017.03 ~ 2023.02)</sup></sub>  
 
-- 📄 [Riss. Geometric Mean Optimization-based Boosting for Bankruptcy Prediction (한국지능시스템학회)](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=087609828391ef734884a65323211ff0&keyword=%EC%9C%A0%EA%B2%BD%EB%AF%BC)
+- 📄 Riss. Geometric Mean Optimization-based Boosting for Bankruptcy Prediction 
+  - [한국지능시스템학회(KCI 등재)](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=087609828391ef734884a65323211ff0&keyword=%EC%9C%A0%EA%B2%BD%EB%AF%BC)
+  - [한국경영학회](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=b9933e569196fda5e9810257f7042666&keyword=%EC%9C%A0%EA%B2%BD%EB%AF%BC)
 
-- 📄 [Riss. Geometric Mean Optimization-based Boosting for Bankruptcy Prediction (한국경영학회)](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=b9933e569196fda5e9810257f7042666&keyword=%EC%9C%A0%EA%B2%BD%EB%AF%BC)
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
