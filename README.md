@@ -60,14 +60,3 @@ NHN 커머스 **백엔드 개발자 교육**  <sub><sup> Kotlin Spring  (2022.07
 
 
 
-
-## 지인 평가
-
-
-
-
----
-
-지인분의 평가는 [Pull Request](https://github.com/benny1020/benny1020/pulls) 로 받고있습니다.
-<br/>
-<br/>
