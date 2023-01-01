@@ -3,6 +3,7 @@
 💻 BE Engineer   
 👩‍🎓 Pusan National Univ. Computer Science  
 
+
 현대자동차 **소프티어 부트캠프(코드스쿼드)** <sub><sup> Backend (2023.01 ~ 2023.02)</sup></sub>   
 웅진 씽크빅 **유데미 스타터스 2기**  <sub><sup> Backend (2022.10 ~ 2023.01)</sup></sub>   
 NHN 커머스 **백엔드 개발자 교육**  <sub><sup> Kotlin Spring  (2022.07 ~ 2022.09)</sup></sub>   
