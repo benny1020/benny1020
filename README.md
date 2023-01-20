@@ -1,8 +1,7 @@
 # 유경민
 
 💻 BE Engineer   
-👩‍🎓 Pusan National Univ. Computer Science  
-
+👨‍🎓 Pusan National Univ. Computer Science  
 
 
 현대자동차 **소프티어 부트캠프(코드스쿼드)** <sub><sup> Backend (2023.01 ~ 2023.02)</sup></sub>   
