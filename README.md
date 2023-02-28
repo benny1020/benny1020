@@ -20,7 +20,6 @@ NHN 커머스 **백엔드 개발자 교육**  <sub><sup> Kotlin Spring  (2022.07
   - [한국경영학회](https://www.riss.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=b9933e569196fda5e9810257f7042666&keyword=%EC%9C%A0%EA%B2%BD%EB%AF%BC)
 
 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=Springboot&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
@@ -36,7 +35,7 @@ NHN 커머스 **백엔드 개발자 교육**  <sub><sup> Kotlin Spring  (2022.07
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbenny1020%2Fhit-counter&count_bg=%23C399FF&title_bg=%2300D4FF&icon=&icon_color=%23C6A1FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benny1020&hide=Jupyter%20Notebook,Kotlin&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/benny1020/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benny1020&hide=Jupyter%20Notebook,HTML,C,CSS,PureBasic,JavaScript,Swift&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/benny1020/github-readme-stats) 
 
 
 
