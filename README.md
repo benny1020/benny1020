@@ -10,7 +10,7 @@ NHN 커머스 **백엔드 개발자 교육**  <sub><sup> Kotlin Spring  (2022.07
 창업팀 **뉴리언스(주)**  <sub><sup> Backend Engineering (2021.10 ~ 2022.08)</sup></sub>   
 **APPTIVE 동아리**  <sub><sup> Backend Part (2021.09 ~ 2022.08)</sup></sub>  
 **부산대학교 학부연구생**  <sub><sup> Prediction of corporate bankruptcy (2021.01 ~ 2022.07)</sup></sub>  
-**부산대학교 정보컴퓨터공학부**  <sub><sup> 학부 (2017.03 ~ 2023.02)</sup></sub>  
+**부산대학교 정보컴퓨터공학부**  <sub><sup> 학부 (2017.03 ~ 2023.08)</sup></sub>  
 
 
 
